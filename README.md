@@ -6,7 +6,7 @@
 | DAX Measures | *Measures.html* |
 | M Code | *MQueries.html* |
 | Relationships | *Relationships.html* |
-+ Access all projects page [here](https://app.powerbi.com/groups/me/reports/b92fc1e6-4e92-49a7-ad36-5a65e9c89d97/ReportSection6e052260e06c02d97820) to navigate between each project as shown below:
++ Access all projects page [here]([https://app.powerbi.com/groups/me/reports/b92fc1e6-4e92-49a7-ad36-5a65e9c89d97/ReportSection6e052260e06c02d97820](https://app.powerbi.com/view?r=eyJrIjoiYWMwYmNlZWQtODU5OS00NTk4LWE1ODctZjU5MzRlZGI0NDdlIiwidCI6IjExOTYzNmE2LThlMWYtNGEzOC1hMTkxLTNkNjZlNWY5MTkzMiJ9)) to navigate between each project as shown below:
 
 ![Project Navigation](./Navigation%20Projects.png)
 
