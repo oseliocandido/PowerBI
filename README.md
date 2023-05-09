@@ -9,7 +9,7 @@
 | Relationships | *Relationships.html* |
 
 # Navigation of Projects
-You can access the project navigation page [here](). It allows you to navigate between each project, as shown below:
+You can access the project navigation page [here](https://app.powerbi.com/groups/me/reports/b92fc1e6-4e92-49a7-ad36-5a65e9c89d97/ReportSection6e052260e06c02d97820). It allows you to navigate between each project, as shown below:
 
 ![Project Navigation](./Navigation%20Projects.png)
 
