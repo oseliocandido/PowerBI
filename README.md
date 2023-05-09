@@ -7,7 +7,7 @@
 | M Code | *MQueries.html* |
 | Relationships | *Relationships.html* |
 
-+ Access all projects page [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwYmNlZWQtODU5OS00NTk4LWE1ODctZjU5MzRlZGI0NDdlIiwidCI6IjExOTYzNmE2LThlMWYtNGEzOC1hMTkxLTNkNjZlNWY5MTkzMiJ9) to navigate between each project as shown below:
++ Access all projects page [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwYmNlZWQtODU5OS00NTk4LWE1ODctZjU5MzRlZGI0NDdlIiwidCI6IjExOTYzNmE2LThlMWYtNGEzOC1hMTkxLTNkNjZlNWY5MTkzMiJ9) to navigate between each project as shown below with 2 sections:
 
 
 ![Project Navigation](./Navigation%20Projects.png)
